@@ -2,7 +2,7 @@
 
 # boAt Lifestyle Clone
 
-## [Hosted Link]()
+## [Hosted Link](https://saurabhshrikhande.github.io/MCT-3_Boat-Project/)
 
 ### Table of Contents
 
